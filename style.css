@@ -1,0 +1,80 @@
+
+.inicio {
+    top: 40px;
+    justify-content: center;
+    color: whitesmoke;
+    background-image: url(https://cdn.pixabay.com/photo/2016/06/22/16/13/city-1473239_1280.jpg);
+    display: flex;
+    box-sizing: border-box;
+    width: 800px;
+    height: 200px;
+    background-color: lavenderblush;
+    justify-self: center;
+    text-align: center;
+    position: relative;
+    border-radius: 18px;
+    left:  200px;
+    right: 200px;
+    background-position: center;
+}
+
+.img2 {
+    position: relative;
+    z-index: 1;
+    top: 14px;
+    left: 12px;
+    width: 160px;
+    height: 160px;
+    box-sizing: border-box;
+    border-radius: 100px;
+}
+.container {
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+    background-color: rgb(213, 235, 235);
+    text-align: center;
+    justify-self: center;
+    position: relative;
+    width: 800px;
+    height: 200;
+    left: 200px;
+    top: 25px;
+    border-radius: 19px;
+    right: 200px;
+    box-sizing: border-box;
+    
+}
+
+img {
+    height: 200px;
+    width: 800px;
+}
+.item {
+    flex-basis: auto;
+    align-self: auto;
+    align-items: center;
+    background-color: khaki;
+}
+
+.fim {
+
+    border-radius: 19px;
+    box-sizing: border-box;
+    font-size: large;
+    align-content: center;
+    text-align: center;
+    justify-self: center;
+    position: relative;
+    top: 20px;
+    width: 800px;
+    height: 200;
+    right: 200px;
+    left: 200px;
+    background-color: black;
+    color: blanchedalmond;
+}
+* {
+    font-family: 
+}
